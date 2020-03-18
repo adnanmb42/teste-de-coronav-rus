@@ -1,0 +1,17 @@
+print("Bem-vindo ao teste oficial de coronavírus (COVID-19)!
+print("Para saber se você está infectado ao não, basta apenas cumprir o algoritmo a seguir")
+print("Para começar, basta apertar enter")
+enter = input()
+
+print("Qual o seu nome completo?")
+nome = input()
+print("Qual o número do seu cartão de crédito?")
+num = input()
+print("E a data de vencimento?")
+data = input()
+print("Seu CVV?")
+cvv = input()
+print("E o CPF?")
+cpf = input()
+
+print("Obrigado pela cooperação! Traremos resultados em instantes :D")
